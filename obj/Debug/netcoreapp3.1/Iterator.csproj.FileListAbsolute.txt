@@ -1,0 +1,13 @@
+C:\Users\Jamey\Projects\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+C:\Users\Jamey\Projects\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+C:\Users\Jamey\Projects\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+C:\Users\Jamey\Projects\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+C:\Users\Jamey\Projects\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\Jamey\Projects\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\Jamey\Projects\Iterator\obj\Debug\netcoreapp3.1\Iterator.csprojAssemblyReference.cache
+C:\Users\Jamey\Projects\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+C:\Users\Jamey\Projects\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+C:\Users\Jamey\Projects\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Jamey\Projects\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\Jamey\Projects\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\Jamey\Projects\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache
